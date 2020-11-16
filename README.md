@@ -1,6 +1,6 @@
 # Overleaf Page Count Bookmarklet
 
-Shows current page and total page count. Simple as that. 
+Shows the current page number and the total page count. Simple as that. 
 
 [Overleaf](https://github.com/Overleaf) should have implemented this feature a **LONG** time ago.
 
